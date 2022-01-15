@@ -6,5 +6,7 @@
 </p>
 
 <h2 align="center">🍒 GitHub Stats: <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
-<p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=cinaxxx&count_private=true&show_icons=true&theme=midnight-purple&hide_border=true" width="%100" height="180px" 
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=thearkxd&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px">
+    <br>
+</div>
